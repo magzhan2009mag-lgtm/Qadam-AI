@@ -1,3 +1,0 @@
-# Необязательно: локальная расшифровка аудио (Whisper) для Live-Coach
-faster-whisper>=1.0
-av>=11
