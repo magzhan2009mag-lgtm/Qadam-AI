@@ -1,0 +1,7 @@
+# Основные зависимости (Python 3.11–3.13)
+streamlit>=1.40
+openai>=1.40
+audio-recorder-streamlit>=0.0.10
+pandas>=2.0
+plotly>=5.20
+python-dotenv>=1.0
